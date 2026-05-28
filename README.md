@@ -20,7 +20,7 @@
 const jahnavi = {
   role: "Full Stack Developer",
   location: "India",
-  currentFocus: ["Template Automation Platform", "AI-powered Tooling"],
+  currentFocus: ["Building applications", "AI-powered Tooling"],
   techStack: {
     frontend: ["React", "TypeScript", "Flutter", "Tailwind", "Astro"],
     backend:  ["Java", "Spring Boot", "Node.js", "Express", "Python (FastAPI)"],
