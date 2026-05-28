@@ -111,71 +111,70 @@ I love turning complex problems into clean, scalable products — whether it's a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">BlinkBasket</h3>
+      <h3 align="center">🛒 BlinkBasket</h3>
       <p align="center">
-        <a href="https://github.com/bikkumallajahnavi/blinkbasket">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/SSE-FF6B6B?style=flat-square" />
       </p>
       <p align="center">
-        Full-stack quick-commerce grocery app with phone OTP auth, real-time order tracking via SSE, and an admin dashboard. Built with Flutter, Riverpod, and Node/Express.
+        Full-stack quick-commerce grocery app with phone OTP auth, real-time order tracking via SSE, admin dashboard, favorites, and cross-platform Flutter client.
       </p>
       <p align="center">
         <a href="https://github.com/bikkumallajahnavi/blinkbasket">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikkumallajahnavi&repo=blinkbasket&theme=tokyonight&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Handwritten Text Recognition</h3>
+      <h3 align="center">✍️ Handwritten Text Recognition</h3>
       <p align="center">
-        <a href="https://github.com/bikkumallajahnavi/HandWrittenCharacterRecognization">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square" />
-        </a>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CTC%20Loss-EE4C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/IAM%20Dataset-34D058?style=flat-square" />
       </p>
       <p align="center">
-        Handwritten text recognition system trained on the IAM dataset using TensorFlow and CTC loss, supporting both word-level and line-level inference.
+        HTR system trained on the IAM dataset using TensorFlow and CTC loss. 3/4 word accuracy, ~10% character error rate, supporting word-level and line-level inference.
       </p>
       <p align="center">
         <a href="https://github.com/bikkumallajahnavi/HandWrittenCharacterRecognization">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikkumallajahnavi&repo=HandWrittenCharacterRecognization&theme=tokyonight&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">HYCE Site</h3>
+      <h3 align="center">🌐 HYCE Site</h3>
       <p align="center">
-        <a href="https://github.com/bikkumallajahnavi/hyce-site">
-          <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </a>
+        <img src="https://img.shields.io/badge/Astro_4-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Static%20Site-38B2AC?style=flat-square" />
       </p>
       <p align="center">
-        Marketing website for HYCE — built with Astro 4 for blazing-fast static delivery. Includes home, services, careers, portfolio, and contact pages.
+        Marketing website for HYCE — built with Astro 4 for blazing-fast static delivery. Covers home, services, clients, careers, portfolio, and contact.
       </p>
       <p align="center">
         <a href="https://github.com/bikkumallajahnavi/hyce-site">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikkumallajahnavi&repo=hyce-site&theme=tokyonight&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">More on the way...</h3>
+      <h3 align="center">🚀 More on the way...</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Building-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Powered-FF6B6B?style=flat-square" />
       </p>
       <p align="center">
         Currently working on AI-powered template automation, canvas editors, and product intelligence dashboards. Stay tuned!
       </p>
       <p align="center">
         <a href="https://github.com/bikkumallajahnavi?tab=repositories">
-          <img src="https://img.shields.io/badge/See_All_Repos-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/See%20All%20Repos-2088FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -188,12 +187,17 @@ I love turning complex problems into clean, scalable products — whether it's a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikkumallajahnavi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkumallajahnavi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkumallajahnavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=bikkumallajahnavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikkumallajahnavi&theme=tokyonight" alt="Profile Details" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikkumallajahnavi&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikkumallajahnavi&theme=tokyonight" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikkumallajahnavi&theme=tokyonight" alt="Repos Per Language" />
 
 </div>
 
